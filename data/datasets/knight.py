@@ -267,5 +267,7 @@ class KnightC2C3(BaseImageDataset):
 
         return train, query, gallery
 
-if __name__ == "__main__":
-    dataset = KnightC2C3()
+# if __name__ == "__main__":
+#     KnightC1C2()
+#     KnightC1C3()
+#     KnightC2C3()
