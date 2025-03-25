@@ -1,4 +1,4 @@
 /.vscode
-/images
+/images/*
 /data/__pycache__
 
