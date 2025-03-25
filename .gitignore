@@ -1,4 +1,5 @@
 /.vscode
 /images/*
+!images/.gitkeep
 /data/__pycache__
 
