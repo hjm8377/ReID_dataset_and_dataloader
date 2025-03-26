@@ -3,8 +3,8 @@
 ReID_datasets/
 ├── images/
 │   ├── Night600/
-│   │   └── bounding_box_train/
-│   │       └── ...
+│   │   ├── bounding_box_train/
+│   │   └── ...
 │   ├── NightPerson/
 │   │   ├── Person/
 │   │   │   ├── 0001/
@@ -18,6 +18,6 @@ ReID_datasets/
 │   │   ├── bases.py
 │   │   ├── dataset_loader.py
 │   │   ├── knight.py           # For NightPerson
-│   │   └── night600.py
+│   │   ├── night600.py
 │   │   └── ...
 ```
