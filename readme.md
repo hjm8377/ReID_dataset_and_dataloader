@@ -11,13 +11,13 @@ ReID_datasets/
 │   │   │   ├── 0002/
 │   │   │   └── ...
 │   │   └── readme.txt
-├── data/
-│   ├── __init__.py
-│   ├── datasets/
-│   │   ├── __init__.py
-│   │   ├── bases.py
-│   │   ├── dataset_loader.py
-│   │   ├── knight.py           # For NightPerson
-│   │   ├── night600.py
-│   │   └── ...
+└── data/
+    ├── __init__.py
+    └── datasets/
+        ├── __init__.py
+        ├── bases.py
+        ├── dataset_loader.py
+        ├── knight.py           # For NightPerson
+        ├── night600.py
+        └── ...
 ```
