@@ -5,12 +5,12 @@ ReID_datasets/
 │   ├── Night600/
 │   │   ├── bounding_box_train/
 │   │   └── ...
-│   ├── NightPerson/
-│   │   ├── Person/
-│   │   │   ├── 0001/
-│   │   │   ├── 0002/
-│   │   │   └── ...
-│   │   └── readme.txt
+│   └── NightPerson/
+│       ├── Person/
+│       │   ├── 0001/
+│       │   ├── 0002/
+│       │   └── ...
+│       └── readme.txt
 └── data/
     ├── __init__.py
     └── datasets/
