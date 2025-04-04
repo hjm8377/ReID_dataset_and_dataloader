@@ -1,7 +1,11 @@
 /.vscode
-/images/*
-!images/.gitkeep
+
+/models/*
+!/models/get_reid_models.sh
+
 /data/__pycache__
-/models
 /data/dukemtmc/
 /data/market1501/
+/data/night600/
+/data/NightPerson/
+
