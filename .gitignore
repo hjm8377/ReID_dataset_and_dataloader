@@ -1,7 +1,7 @@
 /.vscode
 
 /models/*
-!/models/get_reid_models.sh
+/models/get_reid_models.sh
 
 /data/__pycache__
 /data/dukemtmc/
@@ -9,3 +9,4 @@
 /data/night600/
 /data/NightPerson/
 
+/Experiments-results/*
